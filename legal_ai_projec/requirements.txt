@@ -1,0 +1,13 @@
+streamlit
+pandas
+matplotlib
+spacy
+nltk
+pdfplumber
+python-docx
+langdetect
+scikit-learn
+sentence-transformers
+reportlab
+openai
+
