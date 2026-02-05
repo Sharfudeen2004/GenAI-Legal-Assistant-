@@ -1,0 +1,145 @@
+[
+  {
+    "file_name": "Sample_file.txt",
+    "language": "en",
+    "contract_type": "General Service Contract",
+    "total_clauses": 0,
+    "risk_score": 0,
+    "timestamp": "2026-02-04 11:51:07"
+  },
+  {
+    "user": "admin",
+    "file_name": "Sample_file.txt",
+    "language": "en",
+    "contract_type": "General Service Contract",
+    "total_clauses": 0,
+    "risk_score": 0,
+    "timestamp": "2026-02-04 20:46:16"
+  },
+  {
+    "user": "admin",
+    "file_name": "COE-Sample.pdf",
+    "language": "en",
+    "contract_type": "Employment Contract",
+    "total_clauses": 0,
+    "risk_score": 0,
+    "timestamp": "2026-02-04 20:47:39"
+  },
+  {
+    "user": "admin",
+    "file_name": "Sample_file.txt",
+    "language": "en",
+    "contract_type": "General Service Contract",
+    "total_clauses": 0,
+    "risk_score": 0,
+    "timestamp": "2026-02-04 21:01:25"
+  },
+  {
+    "user": "admin",
+    "file_name": "Sample_file.txt",
+    "language": "en",
+    "contract_type": "General Service Contract",
+    "total_clauses": 0,
+    "risk_score": 0,
+    "timestamp": "2026-02-04 21:05:02"
+  },
+  {
+    "user": "admin",
+    "file_name": "Sample_file.txt",
+    "language": "en",
+    "contract_type": "General Service Contract",
+    "total_clauses": 1,
+    "risk_score": 1,
+    "timestamp": "2026-02-05 09:44:48"
+  },
+  {
+    "user": "admin",
+    "file_name": "Sample_file.txt",
+    "language": "en",
+    "contract_type": "General Service Contract",
+    "total_clauses": 0,
+    "risk_score": 0,
+    "timestamp": "2026-02-05 09:49:04"
+  },
+  {
+    "user": "admin",
+    "file_name": "Sample_file.txt",
+    "language": "en",
+    "contract_type": "General Service Contract",
+    "total_clauses": 0,
+    "risk_score": 0,
+    "timestamp": "2026-02-05 09:56:22"
+  },
+  {
+    "user": "admin",
+    "file_name": "Sample_file.txt",
+    "language": "en",
+    "contract_type": "General Service Contract",
+    "total_clauses": 0,
+    "risk_score": 0,
+    "timestamp": "2026-02-05 09:57:35"
+  },
+  {
+    "user": "admin",
+    "file_name": "Sample_file.txt",
+    "language": "en",
+    "contract_type": "General Service Contract",
+    "total_clauses": 0,
+    "risk_score": 0,
+    "timestamp": "2026-02-05 10:03:42"
+  },
+  {
+    "user": "admin",
+    "file_name": "Sample_file.txt",
+    "language": "en",
+    "contract_type": "General Service Contract",
+    "total_clauses": 1,
+    "risk_score": 2.0,
+    "timestamp": "2026-02-05 10:11:21"
+  },
+  {
+    "user": "admin",
+    "file_name": "Sample_file.txt",
+    "language": "en",
+    "contract_type": "General Service Contract",
+    "total_clauses": 1,
+    "risk_score": 2.0,
+    "timestamp": "2026-02-05 10:16:00"
+  },
+  {
+    "user": "admin",
+    "file_name": "Sample_file.txt",
+    "language": "en",
+    "contract_type": "General Service Contract",
+    "total_clauses": 1,
+    "risk_score": 2.0,
+    "timestamp": "2026-02-05 10:17:36"
+  },
+  {
+    "user": "admin",
+    "file_name": "Sample_file.txt",
+    "language": "en",
+    "contract_type": "General Service Contract",
+    "total_clauses": 1,
+    "risk_score": 2.0,
+    "timestamp": "2026-02-05 10:19:51"
+  },
+  {
+    "user": "admin",
+    "file_name": "Sample_file.txt",
+    "language": "en",
+    "contract_type": "General Service Contract",
+    "total_clauses": 1,
+    "risk_score": 2.0,
+    "timestamp": "2026-02-05 10:21:41"
+  },
+  {
+    "user": "admin",
+    "file_name": "COE-Sample.pdf",
+    "language": "en",
+    "contract_type": "Employment Contract",
+    "total_clauses": 10,
+    "risk_score": 7.0,
+    "timestamp": "2026-02-05 10:28:22"
+  }
+]

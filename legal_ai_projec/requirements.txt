@@ -1,0 +1,9 @@
+streamlit
+spacy
+nltk
+pdfplumber
+python-docx
+langdetect
+scikit-learn
+sentence-transformers
+reportlab
